@@ -1,1 +1,0 @@
-import{_ as s}from"./index.f605fb03.js";import{r as n,o,c as t,e as l,x as c}from"./index.569341af.js";const _={__name:"index",setup(u){const e=n("/api/druid/login.html");return(i,r)=>(o(),t("div",null,[l(c(s),{src:e.value,"onUpdate:src":r[0]||(r[0]=a=>e.value=a)},null,8,["src"])]))}};export{_ as default};
